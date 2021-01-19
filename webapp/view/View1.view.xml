@@ -3,6 +3,7 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
+<!--S3_PurchaseOrderDetails.view.xml  OrderedByName removed -->				
 				<content></content>
 			</Page>
 		</pages>
